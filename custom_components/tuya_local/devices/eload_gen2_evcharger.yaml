@@ -3,6 +3,9 @@ products:
   - id: wgtkomhkmkvrweel
     manufacturer: eLoad
     model: Gen2
+  - id: jmbob4xuffrogjkd
+    manufacturer: GEN2
+    model: EcoPower 11kW
 entities:
   - entity: sensor
     translation_key: status
